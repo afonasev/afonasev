@@ -1,10 +1,10 @@
 Hi 👋 My name is Evgeniy Afonasev
 =================================
 
-Engineering Manager | Head of Python
-------------------------------------
+Team Lead at Avito | Antifraud Systems
+-------------------------------------
 
-Ex Python Developer
+Python background · AI-assisted development with Codex and Claude
 
 * 🌍  I'm based in Yekaterinburg
 * ✉️  You can contact me at [ea.afonasev@gmail.com](mailto:ea.afonasev@gmail.com)
@@ -20,10 +20,14 @@ src="https://img.shields.io/github/followers/afonasev?logo=github&style=for-the-
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
+<p align="left">
+<img src="https://img.shields.io/badge/Codex-1c1917?style=for-the-badge" alt="Codex" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
+</p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/afonasev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/afonasev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ea_afonasev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/afonasev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/afonasev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
