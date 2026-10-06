@@ -16,14 +16,11 @@ src="https://img.shields.io/github/followers/afonasev?logo=github&style=for-the-
 ### Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/Codex-1c1917?style=for-the-badge" alt="Codex" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" alt="Claude" />
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="assets/skills/python.svg" alt="Python" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="assets/skills/fastapi.svg" alt="FastAPI" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/skills/postgresql.svg" alt="PostgreSQL" /></a>
+<img src="assets/skills/codex.svg" alt="Codex" />
+<img src="assets/skills/claude.svg" alt="Claude" />
 </p>
 
 ### Socials
