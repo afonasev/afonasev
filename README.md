@@ -7,6 +7,7 @@ Team Lead at Avito | Antifraud Systems
 Python background · AI-assisted development with Codex and Claude
 
 * 🌍  I'm based in Yekaterinburg
+* 📝 My main blog: [Telegram — @afonasev_blog](https://t.me/afonasev_blog)
 * ✉️  You can contact me at [ea.afonasev@gmail.com](mailto:ea.afonasev@gmail.com)
 
 <a href="https://www.github.com/afonasev" target="_blank" rel="noreferrer"><img
@@ -27,7 +28,7 @@ src="https://img.shields.io/github/followers/afonasev?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/afonasev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/afonasev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+[Telegram](https://t.me/afonasev) · [LinkedIn](https://linkedin.com/in/afonasev/) · [GitHub](https://github.com/afonasev) · [YouTube](https://clck.ru/3Apekk) · [GetMentor](https://clck.ru/37MNn2)
 
 ### Badges
 
